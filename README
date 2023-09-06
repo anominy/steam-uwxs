@@ -1,0 +1,20 @@
+               steam-uwxs
+
+-----------------------------------------
+
+  Author: anominy
+  License: GPL-3.0
+
+-----------------------------------------
+
+  Project Files:
+      ./**
+          .gitignore
+          COPYING
+          README
+          requirements.txt
+
+      src/**
+          base.py
+          main.py
+          steam.py
